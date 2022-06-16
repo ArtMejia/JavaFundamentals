@@ -53,8 +53,8 @@ public class Main {
         //x++;     // increment operator. postfix or prefix
         // int x = 1;
         // x += 2; // augmented operators x -= 2, x *= 2, x /= 2
-        int x = (10 + 3) * 2;
-        System.out.println(x);
+        // int x = (10 + 3) * 2;
+        // System.out.println(x);
 
     }
 }
