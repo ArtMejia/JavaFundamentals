@@ -40,7 +40,7 @@ public class Main {
         // System.out.println(message.toLowerCase()); // change all to lowercase
         // System.out.println(message.trim()); // removes extra spacing at begin and end
         // String message = "Hello \"Mosh\""; // use a backslash \ to excape them and  add quotes to string
-        // String mwssage = "c:\\Windows\\...."; // escape a a backlash
+        // String message = "c:\\Windows\\...."; // escape a a backlash
         // String message = "c:\nWindows\\...."; // /n to add new line to string
         // String message = "c:\tWindows\\...."; // /t to add tab to string
         // System.out.println(message);
