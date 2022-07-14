@@ -10,3 +10,10 @@ public class warmup6 {
     }
 
 }
+
+// Create a function that reverses a boolean value.
+
+// Examples
+// reverse(true) ➞ false
+
+// reverse(false) ➞ true
