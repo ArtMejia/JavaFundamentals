@@ -1,6 +1,6 @@
 package com.mejia.warmup;
 
-public class warmup1 {
+public class WarmUp1 {
 
     public static void main(String[] args) {
         int[] numbers = {6, 21, 37, 58};

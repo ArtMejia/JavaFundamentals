@@ -1,6 +1,6 @@
 package com.mejia.warmup;
 
-public class warmup9 {
+public class WarmUp9 {
     public static void main(String[] args) {
         System.out.println(getCount("Hello there mate"));
     }

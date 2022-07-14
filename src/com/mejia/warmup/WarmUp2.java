@@ -1,6 +1,6 @@
 package com.mejia.warmup;
 
-public class warmup2 {
+public class WarmUp2 {
 
     public static void main(String[] args) {
         addition(2);

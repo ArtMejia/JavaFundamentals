@@ -1,6 +1,6 @@
 package com.mejia.warmup;
 
-public class warmup11 {
+public class WarmUp11 {
     public static void main(String[] args) {
         System.out.println(isSameNum(2, 9));
     }
