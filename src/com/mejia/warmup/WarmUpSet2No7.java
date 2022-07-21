@@ -1,6 +1,6 @@
 package com.mejia.warmup;
 
-public class WarmUp7 {
+public class WarmUpSet2No7 {
     public static void main(String[] args) {
         System.out.println(countWords("Hello there good guy, nice to meet ya"));
     }

@@ -1,6 +1,6 @@
 package com.mejia.warmup;
 
-public class WarmUp17 {
+public class WarmUpSet4No17 {
     public static void main(String[] args) {
         System.out.println(match("hello", "HeLLo"));
     }

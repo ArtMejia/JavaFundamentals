@@ -1,17 +1,17 @@
 package com.mejia.warmup;
 
-public class WarmUp1 {
+public class WarmUpSet1No1 {
 
     public static void main(String[] args) {
-        int[] numbers = {6, 21, 37, 58};
+        int[] numbers = {80, 5, 100};
         getFirstValue(numbers);
+
         System.out.println(getFirstValue(numbers));
     }
 
     public static int getFirstValue(int[] arg) {
         return arg[0];
     }
-
 }
 
 // Create a function that takes an array containing only numbers and return the first element.

@@ -1,6 +1,6 @@
 package com.mejia.warmup;
 
-public class WarmUpSet3Bonus1 {
+public class WarmUpSet3BonusNo1 {
 
     public static void main(String[] args) {
         System.out.println(triArea(3, 5));

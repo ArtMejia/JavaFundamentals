@@ -1,6 +1,6 @@
 package com.mejia.warmup;
 
-public class WarmUp6 {
+public class WarmUpSet2No6 {
     public static void main(String[] args) {
         System.out.println(reverse(false));
     }

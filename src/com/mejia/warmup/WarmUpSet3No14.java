@@ -1,6 +1,6 @@
 package com.mejia.warmup;
 
-public class WarmUp14 {
+public class WarmUpSet3No14 {
     public static void main(String[] args) {
         System.out.println(reverse("Hello Art"));
     }

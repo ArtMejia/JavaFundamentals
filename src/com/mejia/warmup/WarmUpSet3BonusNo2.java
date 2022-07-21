@@ -1,6 +1,6 @@
 package com.mejia.warmup;
 
-public class WarmUpSet3Bonus2 {
+public class WarmUpSet3BonusNo2 {
     public static void main(String[] args) {
         System.out.println(divisible(150));
     }

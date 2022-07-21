@@ -1,6 +1,6 @@
 package com.mejia.warmup;
 
-public class WarmUp8 {
+public class WarmUpSet2No8 {
     public static void main(String[] args) {
         int[] numbers = {12, 25, 37, 58, 92};
         System.out.println(existsHigher(numbers, 100));

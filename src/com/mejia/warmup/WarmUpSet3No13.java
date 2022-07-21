@@ -1,6 +1,6 @@
 package com.mejia.warmup;
 
-public class WarmUp13 {
+public class WarmUpSet3No13 {
     public static void main(String[] args) {
         System.out.println(helloName("Art"));
     }

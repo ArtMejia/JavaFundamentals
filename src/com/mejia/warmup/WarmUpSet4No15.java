@@ -1,6 +1,6 @@
 package com.mejia.warmup;
 
-public class WarmUp15 {
+public class WarmUpSet4No15 {
     public static void main(String[] args) {
         System.out.println(makesTen(2, 8));
     }

@@ -1,6 +1,6 @@
 package com.mejia.warmup;
 
-public class WarmUp16 {
+public class WarmUpSet4No16 {
     public static void main(String[] args) {
         System.out.println(numberSyllables("mon-u-men-tal"));
     }

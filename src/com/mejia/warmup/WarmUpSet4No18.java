@@ -1,8 +1,8 @@
 package com.mejia.warmup;
 
-public class WarmUp18 {
+public class WarmUpSet4No18 {
     public static void main(String[] args) {
-        System.out.println(hackerSpeak("Here we go!"));
+        System.out.println(hackerSpeak("artenio, genesis, aliza, izmary"));
     }
 
     public static String hackerSpeak(String str) {
@@ -10,7 +10,12 @@ public class WarmUp18 {
                 .replace('e', '3')
                 .replace('i', '1')
                 .replace('o', '0')
-                .replace('s', '5');
+                .replace('s', '5')
+                .replace("A", "4")
+                .replace("E", "3")
+                .replace("I", "1")
+                .replace("O", "0")
+                .replace("S", "5");
     }
 }
 

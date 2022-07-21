@@ -1,6 +1,6 @@
 package com.mejia.warmup;
 
-public class WarmUp12 {
+public class WarmUpSet3No12 {
     public static void main(String[] args) {
         System.out.println(calcAge(10));
     }
