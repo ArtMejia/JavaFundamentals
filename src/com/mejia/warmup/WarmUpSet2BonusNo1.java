@@ -2,7 +2,7 @@ package com.mejia.warmup;
 
 public class WarmUpSet2BonusNo1 {
     public static void main(String[] args) {
-        StringBuffer sb = new StringBuffer("123");
+        StringBuffer sb = new StringBuffer("-122157");
         sb.reverse();
         System.out.println(sb);
     }
