@@ -1,0 +1,1 @@
+SELECT distinct City FROM STATION WHERE RIGHT(City,1) IN ('a', 'e', 'i', 'o', 'u');
