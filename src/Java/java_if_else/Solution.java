@@ -1,24 +1,33 @@
 package Java.java_if_else;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.regex.*;
 
 public class Solution {
-    public static void main(String[] args) throws IOException {
-        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
-        int N = Integer.parseInt(bufferedReader.readLine().trim());
+    private static final Scanner scanner = new Scanner(System.in);
 
-        bufferedReader.close();
+    public static void main(String[] args) {
+        int N = scanner.nextInt();
+        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
 
-        if (N % 2 != 0){
+        scanner.close();
+
+        if (N % 2 !=0){
             System.out.println("Weird");
-        } else if (N % 2 == 0 && 2<=N && N<=5){
+        }
+        else if (N % 2 == 0 && N >= 2 && N <= 5) {
             System.out.println("Not Weird");
-        } else if (N % 2 == 0 && N>=6 && N<=20){
+        }
+        else if (N % 2 == 0 && N >= 6 && N <= 20) {
             System.out.println("Weird");
-        } else if (N % 2 == 0 && N>20){
+        }
+        else if (N % 2 == 0 && N > 20) {
             System.out.println("Not Weird");
         }
     }
