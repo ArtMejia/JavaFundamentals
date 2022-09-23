@@ -7,11 +7,11 @@ import java.io.InputStreamReader;
 public class Solution {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
-        int n = Integer.parseInt(bufferedReader.readLine().trim());
+        int N = Integer.parseInt(bufferedReader.readLine().trim());
         bufferedReader.close();
 
         for (int i = 1; i < 11; i++) {
-            System.out.println(n + " x " + i + " = " + n * i);
+            System.out.println(N + " x " + i + " = " + N * i);
         }
     }
 }

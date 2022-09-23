@@ -11,7 +11,6 @@ public class Solution {
         Scanner scan = new Scanner(System.in);
         BufferedReader keyboard = new BufferedReader(new InputStreamReader(System.in));
 
-
         System.out.println("Enter first number:");
         int a = scan.nextInt();
         // Complete this line
